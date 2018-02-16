@@ -1,28 +1,9 @@
-== README
+This is my take-home assignment for an internship opportunity at B12.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I designed and implemented the front end of a functional image carousel using ruby on rails, bootstrap, javascript and HTML/CSS. The link to the HTML is the following: https://github.com/danachung3/B12/blob/master/app/views/welcome/index.html.erb.
 
-Things you may want to cover:
+Please clone or download this repo and run the rails app on your local host to view the functional image carousel.
 
-* Ruby version
+Please do not hesitate to contact me with further questions.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Best, Dana Chung
